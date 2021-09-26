@@ -10,4 +10,4 @@ function findMin(...numbers) {
     }
     console.log(min)
 }
-findMin(14,2,25,3)
+findMin(20,48,25,98)
